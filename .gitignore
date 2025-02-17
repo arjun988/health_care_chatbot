@@ -1,0 +1,58 @@
+# Streamlit files
+.streamlit/
+.env
+.env.example
+
+# Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Distribution files
+build/
+dist/
+eggs/
+parts/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# IDE files
+.vscode/
+.idea/
+.spyderproject
+.spyproject
+
+# Streamlit cache
+.streamlit/
+.streamlit/data/
+.streamlit/config.toml
+
+# Session state files
+session_state.json
+
+# Log files
+*.log
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Coverage reports
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+
+# Documentation
+docs/_build/
+
+# Streamlit app files
+
